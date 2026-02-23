@@ -35,7 +35,9 @@ A implementacao de ferramentas na empresa *[Abstergo Industries] tem como espera
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[Linx: a grande vantagem de ter um sistema em nuvem para farmácias.
+LivePharma: é um sistema para farmácia desenvolvido para automatizar, organizar e simplificar toda a gestão do negócio farmacêutico. Tudo funciona 100% em nuvem, sem necessidade de servidores ou instalações locais.
+Kommo: CRM para gestão de pacientes | Kommo + SetYou Pharmacy - (https://www.youtube.com/watch?v=K4Zp0WlCIng&t=65s) ]
 
 Assinatura do Responsavel pelo Projeto:
 
