@@ -11,7 +11,7 @@ Este relatorio apresenta o processo de implementacao de ferramentas na empresa [
 O objetivo do projeto foi elencar 3 servicos AWS, com a finalidade de realizar diminuicao de custos imediatos.
 
 ## Descricao do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especi­ficos. A seguir, serao descritas as etapas do projeto:
+O projeto de implementacao de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especi­ficos. A seguir, serao descritas as etapas do projeto:
 
 Etapa 1: 
 - [Nome da ferramenta]
@@ -31,12 +31,12 @@ Etapa 3:
 
 
 ## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *[nome da empresa] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementacao de ferramentas na empresa *[Abstergo Industries] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentara¡ a eficiencia e a produtividade da empresa. Recomenda-se a continuidade da utilizacao das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
 [lista de anexos, como manuais, documentos, planilhas, entre outros]
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsavel pelo Projeto:
 
-[Nome do ResponsÃ¡vel pelo Projeto]
+[Nome do Responsavel pelo Projeto: Wiliam Cherubim]
