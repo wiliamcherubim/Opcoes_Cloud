@@ -30,7 +30,7 @@ Etapa 3:
 
 
 
-## ConclusÃ£o
+## Conclusao
 A implementacao de ferramentas na empresa *[Abstergo Industries] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentara¡ a eficiencia e a produtividade da empresa. Recomenda-se a continuidade da utilizacao das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
